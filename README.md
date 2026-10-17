@@ -1,5 +1,8 @@
 # Lume
 
+David Gabriel de Souza Batista RA:22.123.056-8
+Gabriel dos Santos Silva RA:22.221.032-0
+
 Jogo de plataforma 2D feito na Unity 6.3 LTS (6000.3.23f1).
 
 Duas fases, 16 sementes para coletar, inimigos, três vidas, pontuação e fundo com parallax.
